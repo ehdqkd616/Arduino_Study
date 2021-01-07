@@ -1,2 +1,2 @@
-# Gugbi_8_Arduino_workspace
-Gugbi_8_Arduino_workspace
+# Arduino_Study
+Arduino 연습
